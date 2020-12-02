@@ -2962,7 +2962,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/**
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\code\ng-actions-demo\app\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /Users/zuojianghua/Code/ng-actions-demo/app/src/polyfills.ts */"hN/g");
 
 
 /***/ }),
